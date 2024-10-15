@@ -16,7 +16,7 @@ const ClasificacionInvestigadores = () => {
         let categoria = "No clasificado";
         // Lógica de clasificación (ejemplo simple)
 
-        // Mostrar resultado
+        // Muestrara el resultado
         setResultado(`Categoría: ${categoria}`);
     };
 
