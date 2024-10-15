@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Myfirstcomponent from './componentes/Myfirstcomponent';
+import Myfirstcomponent from './componentes/Colciencias';
 
 function App() {
   return (
