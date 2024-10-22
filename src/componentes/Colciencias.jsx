@@ -14,9 +14,9 @@ const ClasificacionInvestigadores = () => {
         event.preventDefault();
         // Aquí implementaremos la lógica para clasificar al investigador
         let categoria = "No clasificado";
-        // Lógica de clasificación (ejemplo simple)
+        
 
-        // Muestrara el resultado
+        // resultado
         setResultado(`Categoría: ${categoria}`);
     };
 
